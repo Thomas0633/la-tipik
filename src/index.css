@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "shadows";
+    src: url("/polices/ShadowsIntoLight.ttf")
+}
+@font-face {
+    font-family: "roboto";
+    src: url("/polices/Roboto-Regular.ttf")
+}
+@font-face {
+    font-family: "openSans";
+    src: url("/polices/Open_Sans/OpenSans-Regular.ttf")
+}
